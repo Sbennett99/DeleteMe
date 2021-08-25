@@ -34,6 +34,6 @@ Print(prefix + myName)
     2. Blue
     3. Green
     ------
-    Link to [Google](https:\\google.com)
+    Link to [Google](https://google.com)
 
     Link to the other page [Number2](Number2.md)
